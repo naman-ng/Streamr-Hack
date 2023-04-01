@@ -9,16 +9,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@bundlr-network/client": "^0.10.5",
+    "@chakra-ui/react": "^2.5.5",
     "@livepeer/react": "^2.3.2",
+    "@rainbow-me/rainbowkit": "^0.12.5",
     "eslint": "8.37.0",
     "eslint-config-next": "13.2.4",
+    "ethers": "^5.7.2",
+    "filereader-stream": "^2.0.0",
+    "mux-embed": "^4.24.0",
     "next": "13.2.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-fast-compare": "^3.2.1",
     "streamr-client": "^8.1.0",
-    "streamr-client-react": "^3.0.0"
+    "streamr-client-react": "^3.0.0",
+    "typescript": "^5.0.3",
+    "wagmi": "^0.12.8"
   },
   "devDependencies": {
+    "@types/react": "18.0.31",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
     "tailwindcss": "^3.3.1"
